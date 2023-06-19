@@ -12,4 +12,13 @@
 
 ![Image Description](./Charts/Mage-Airflow-Similar.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Image Description](./Charts/Fact&Dimension_Table.png)
+
+
 
